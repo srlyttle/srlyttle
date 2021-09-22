@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srlyttle
 - 👀 I’m interested in all things Javascript and React
-- 🌱 I’m currently working on React Native Projects
+- 🌱 I’m currently working on React, React Native Projects with GraphQL and Apollo
 - 💞️ I’m looking to collaborate on anything React and interesting
 
 
